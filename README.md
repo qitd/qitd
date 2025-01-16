@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qitd
-- 👀 I’m interested in Game development
+- 👀 I’m interested in Game development and programming 
 - 🌱 I’m currently learning Python, Java, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
